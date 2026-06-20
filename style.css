@@ -100,7 +100,7 @@ gap:20px;
 }
 
 .card{
-background:#1e293b;
+background:#white;
 padding:25px;
 border-radius:15px;
 text-align:center;
@@ -109,10 +109,6 @@ opacity:0;
 transform:translateY(30px);
 }
 
-.card.show{
-opacity:1;
-transform:translateY(0);
-}
 
 form{
 display:flex;
